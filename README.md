@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome:877002
-Matricula: Cristiane de Oliveira Santos
+Nome:Cristiane de Oliveira Santos
+Matricula:877002
 
 ## Tela de inspeção com navegador
 ![](resultados-amazon.jpg)
