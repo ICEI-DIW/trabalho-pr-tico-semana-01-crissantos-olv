@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome:877002
+Matricula: Cristiane de Oliveira Santos
 
 ## Tela de inspeção com navegador
-
+![](resultados-amazon.jpg)
 
 ## Tela de projeto no Replit
-
+![](tela-replit.jpg)
